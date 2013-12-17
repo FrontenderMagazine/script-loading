@@ -480,7 +480,7 @@ IE-событие `readystate`, ну, и на всякий случай, есл�
 **Все остальные:** Я твой друг, сделаю все по инструкции!
 
 
- [1]: #toc-quick-reference
+ [1]: #bstrayaspravka
  [2]: http://www.whatwg.org/specs/web-apps/current-work/multipage/scripting-1.html#script
  [4]: http://www.w3.org/TR/html401/interact/scripts.html#h-18.2.1
  [5]: https://hacks.mozilla.org/2009/06/defer/
@@ -492,7 +492,7 @@ IE-событие `readystate`, ну, и на всякий случай, есл�
  [11]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
  [12]: http://responsivenews.co.uk/post/18948466399/cutting-the-mustard
  [13]: http://caniuse.com/#search=defer
- [14]: #interesting-ie
+ [14]: #uieestyideya
 
 
 [WHATWG о загрузке скриптов]: img/script-loading.png "WHATWG о загрузке скриптов"
